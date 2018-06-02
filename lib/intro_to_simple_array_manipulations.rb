@@ -4,7 +4,7 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  arr = [array]
-  arr.unshift(string)
-  array.length
+  array = [string]
+  array.unshift(string)
+  
 end
