@@ -33,4 +33,5 @@ end
 
 def using_uniq(arr)
   arr.uniq
+end
 
