@@ -4,6 +4,6 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  array = [string]
-  array.unshift(string)
+  array = []
+  array.unshift()
 end
